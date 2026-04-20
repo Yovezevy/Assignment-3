@@ -31,4 +31,4 @@ Point 3 (x y): 2 1
 
 contoh output
 
-![(Screenshot Inpurt Dan Output)](input dan output.png)
+![Screenshot Inpurt Dan Output]("C:\Users\terse\Downloads\Proglan\assignment3-main\Assignment 3\input_output.png")
