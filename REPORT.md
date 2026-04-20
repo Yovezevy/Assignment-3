@@ -28,7 +28,7 @@ Segitiga 3
 Point 1 (x y): 0 0
 Point 2 (x y): 4 0
 Point 3 (x y): 2 1
-
+```
 contoh output
 
 ![Screenshot Input Dan Output](input_output.png)
